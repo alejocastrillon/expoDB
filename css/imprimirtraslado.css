@@ -1,0 +1,25 @@
+*{
+	font-family: "Arial";
+	font-size: 13px;
+}
+body{
+	padding: 100px;
+	line-height:  200%;
+}
+.encabezado{
+	margin-top: 30px;
+}
+.ref{
+	margin-top: 20px;
+}
+.saludo{
+	margin-top: 30px;
+}
+table{
+	border-collapse: collapse;
+	margin-top: 5px;
+	width: 100%;
+}
+td{
+	height: 20px;
+}

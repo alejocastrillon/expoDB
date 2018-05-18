@@ -1,0 +1,73 @@
+*{
+	font-family: "Arial";
+}
+body{
+	padding: 0px 20px 0px 20px;
+}
+#logo{
+	background: url(../imagenes/Dibujo.JPG);
+	margin-top: 50px;
+	background-size: 100% 100%;
+	width:70px;
+	margin: 0 auto;
+	height: 100px;
+}
+.header{
+	text-align: center;
+	font-size: 11px;
+	line-height: 40%;
+}
+.columna{
+	font-size: 13px;
+	line-height: 70%;
+	width: 45%;
+	float: left;
+}
+#contenido{
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+	font-size: 13px;
+}
+table{
+	width: 100%;
+	font-size: 13px;
+	text-align: center;
+}
+img{
+	width: 10px;
+	height: 10px;
+}
+th{
+	border-bottom: 1px solid #000;
+	border-top: 1px solid #000;
+}
+th:first-child{
+	border-left: 1px solid #000;
+}
+th:last-child{
+	border-right: 1px solid #000;
+}
+.othersection{
+	font-size: 13px;
+	line-height:90%;
+	width: 70%;
+	float: left;
+}
+.huella{
+	width: 13%;
+	text-align: center;
+	height: 100px;
+	border: 1px solid #000;
+	float: right;
+}
+.datosadicionales{
+	clear: both;
+}
+.firma{
+	border-top:1px solid #000; 
+	padding-top:6px;
+	width:45%;
+	margin-top:50px;
+	text-align:center;
+}

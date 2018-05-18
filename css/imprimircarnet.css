@@ -1,0 +1,80 @@
+*{
+	font-family: "Arial";
+	font-size: 12px;
+}
+#contenedoracarnet{
+	width: 458px;
+	height: 276px;
+	margin: 0 auto;
+}
+#numcarnet{
+	margin-left: 270px;
+	padding-top: 48px;
+}
+#nombreapellido{
+	margin-left: 75px;
+	width: 275px;
+	float: left;
+	padding-top: 15px;
+}
+#discapacidades{
+	width: 20px;
+	float: right;
+	padding-top: 15px;
+	margin-right: 70px;
+}
+#numafili{
+	clear: both;
+	width: 190px;
+	margin-left: 75px;
+	float: left;
+	padding-top: 15px;
+}
+#tipodoc{
+	padding-top: 15px;
+	float: left;
+	margin-left: 10px;
+}
+#nivel{
+	float: left;
+	padding-top: 15px;
+	margin-left: 40px;
+}
+#zona{
+	float: left;
+	padding-top: 15px;
+	margin-left: 28px;
+}
+#vigencia{
+	margin-left: 75px;
+	padding-top: 15px;
+	width: 140px;
+	float: left;
+	clear: both;
+}
+#municipio{
+	float: left;
+	padding-top: 15px;
+	margin-left: 45px;
+}
+#sexo{
+	float: left;
+	padding-top: 15px;
+	margin-left: 45px;
+}
+#fechaafiliacion{
+	clear: both;
+	margin-left: 73px;
+	float: left;
+	padding-top: 15px;
+}
+#fechanac{
+	padding-top: 15px;
+	float: left;
+	margin-left: 60px;
+}
+#ficha{
+	float: left;
+	padding-top: 15px;
+	margin-left: 65px;
+}

@@ -1,0 +1,77 @@
+*{
+	font-family: "Trebuchet MS";
+}
+/*Estilo para la forma de login*/
+#login{
+	width:35%;
+}
+#login input, select{
+	width: 99%;
+	padding: 5px;
+	outline: none;
+	border-radius: 8px;
+	border: 1px solid #AAA;
+}
+#login input:focus{
+	outline: none;
+	box-shadow: 0px 0px 20px  #088A08;
+}
+/*Fin de estilo para el login*/
+/*Estilo encabezado de la aplicacion*/
+header{
+	width: 100%;
+	height: 160px;
+}
+/*Fin estilo de encabezado de la aplicacion*/
+/*Contenedora del menu*/
+aside{
+	float: left;
+	z-index: 50;
+	background: #AAA;
+	padding: 5px;
+	border-radius: 7px;
+	border: 1px solid #CCC;
+	width: 27%;
+}
+/*Fin contenedora del menu*/
+/*Contenido*/
+section{
+	z-index: 2;
+	float: right;
+	width: 71%;
+}
+/*Fin del contenido*/
+.opacity{
+	width: 100%;
+	height: 100%;
+	background: #333;
+	opacity: 0.5;
+	display: none;
+	position: fixed;
+}
+.progressbar{
+	width: 40%;
+	margin-top: 20%;
+	margin-left: 21%;
+}
+/*Estilo para los formularios*/
+.forms input[type=text],[type=password],[type=date]{
+	width: 98%;
+	padding: 5px;
+	border-radius: 7px;
+	border: 1px solid #AAA;
+	outline: none;
+}
+.forms textarea{
+	width: 98%;
+	height: 70px;
+	padding: 5px;
+	border-radius: 7px;
+	border: 1px solid #AAA;
+	outline: none;
+}
+/*Fin estilo para los formularios*/
+/*Tablas*/
+table{
+	border-collapse: collapse;
+}
